@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Strength — Train for what’s next",
+  "short_name": "Strength",
+  "description": "A strength training app to help you show up, get stronger, and keep going.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101311",
+  "theme_color": "#101311",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
